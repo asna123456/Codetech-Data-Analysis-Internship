@@ -38,3 +38,20 @@ The model achieved an accuracy of approximately **81.01%**, demonstrating effect
 * **Notebook Link:** [Task 2 - ML Predictive Analysis] (https://github.com/asna123456/Codetech-Data-Analysis-Internship/blob/07d84fba593a7d39902241cac1449edbc59c4f0a/Task2_PredictiveAnalysis.ipynb)
 
 ---
+
+
+
+
+
+---
+## Task 3: Interactive Sales Dashboard
+Developed an interactive Sales Performance Dashboard using Tableau to visualize and analyze the Superstore dataset.
+
+### Key Insights:
+* Regional Performance:Identified the West and East regions as the leading contributors to total sales.
+* Category Profitability: Technology and Office Supplies are the most profitable categories, while Furniture shows lower margins.
+* Monthly Sales Trend: Observed seasonal peaks in sales, especially during the year-end periods.
+
+### Files Included:
+* Tableau Workbook: `Superstore task 3.twbx`
+* Dashboard PDF: `Superstore task 3.pdf`
