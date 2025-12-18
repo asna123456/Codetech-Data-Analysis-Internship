@@ -67,4 +67,4 @@ Performed sentiment analysis on textual data to classify text into different cat
 * Performance: Achieved a high accuracy of 98.60% on the test dataset.
 
 ### Deliverables:
-* Jupyter Notebook: 
+* Jupyter Notebook: https://github.com/asna123456/Codetech-Data-Analysis-Internship/blob/3b88ff607dd0247dacc712cddd09a92ba5523c3c/task4.ipynb
