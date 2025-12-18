@@ -1,6 +1,6 @@
- CodeTech Data Analysis Internship Deliverables
+ CodTech Data Analysis Internship Deliverables
 
-This repository contains the completed tasks for the CodeTech Data Analysis Internship.
+This repository contains the completed tasks for the CodTech Data Analysis Internship.
 
 ---
 
