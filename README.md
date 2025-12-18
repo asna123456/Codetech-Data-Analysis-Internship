@@ -40,9 +40,6 @@ The model achieved an accuracy of approximately **81.01%**, demonstrating effect
 ---
 
 
-
-
-
 ---
 ## Task 3: Interactive Sales Dashboard
 Developed an interactive Sales Performance Dashboard using Tableau to visualize and analyze the Superstore dataset.
@@ -55,3 +52,19 @@ Developed an interactive Sales Performance Dashboard using Tableau to visualize 
 ### Files Included:
 * Tableau Workbook: https://github.com/asna123456/Codetech-Data-Analysis-Internship/blob/87571065cabac501fdcc0f52391faa9e606e7e14/Superstore%20task%203.twbx
 * Dashboard PDF: https://github.com/asna123456/Codetech-Data-Analysis-Internship/blob/87571065cabac501fdcc0f52391faa9e606e7e14/Superstore%20task%203.pdf
+
+
+
+
+## Task 4: Sentiment Analysis using NLP
+
+Performed sentiment analysis on textual data to classify text into different categories using Natural Language Processing (NLP) techniques.
+
+### Key Highlights:
+* Preprocessing: Cleaned raw text by removing special characters, numbers, and converting to lowercase to improve model performance.
+* Feature Extraction: Utilized TF-IDF Vectorization to convert text data into numerical format.
+* Model:Implemented the Multinomial Naive Bayes algorithm.
+* Performance: Achieved a high accuracy of 98.60% on the test dataset.
+
+### Deliverables:
+* Jupyter Notebook: 
